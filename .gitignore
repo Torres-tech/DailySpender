@@ -1,0 +1,30 @@
+# macOS
+.DS_store
+
+
+# Xcode user data
+*.xcuserstate
+*.xcuserdata
+*.xcworkspace
+
+#Build
+build/
+DeriveData/
+
+# Swift Package Manager
+.swiftpm
+Packages/
+
+#CocoaPods
+Pods/
+
+#Carthage
+Carthage/
+
+#FastLane
+fastlane/report.xml
+fastlane/screenshots
+fastlane/test_output
+
+#Logs
+*.logs
